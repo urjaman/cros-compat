@@ -1,0 +1,5 @@
+The point is to put things in here that are helpful
+for running Arch in a chroot or container under CrOS..
+
+cras-alsa is the PKGBUILD for the ALSA plugins for using the ChromeOS Audio Server (CRAS)
+(Mostly shamelessly ripped from crouton audio target.)

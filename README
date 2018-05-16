@@ -3,3 +3,7 @@ for running Arch in a chroot or container under CrOS..
 
 cras-alsa is the PKGBUILD for the ALSA plugins for using the ChromeOS Audio Server (CRAS)
 (Mostly shamelessly ripped from crouton audio target.)
+
+mpv 0.27 (mpv027) still has the -vo wayland backend
+that works nicely (without OpenGL inside the container) with CrOS
+
